@@ -2,7 +2,7 @@
 
 A single-page HTML CV for an AI & Data Science Engineer.
 
-**Live version:** https://noga-66.github.io/cv/
+**Live version:** https://noga-66.github.io/CV/
 
 ## About
 Personal CV presenting profile, experience, projects, education, certifications, and skills.
